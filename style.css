@@ -1,0 +1,22 @@
+  
+#map {
+	height: 300px;
+	width: 10%;
+}
+
+.fondodepantalla {
+	background-color: #e8d4a2;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.lista-de-productos {
+	line-height: 22px;
+}
+
+
+.nav1 {
+	display: flex;
+	justify-content: flex-end;
+}
